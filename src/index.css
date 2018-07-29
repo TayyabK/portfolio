@@ -1,0 +1,49 @@
+body {
+}
+.navbar-default {
+}
+
+.navbar-brand {
+  height: 60px;
+  padding: 2px 2px;
+}
+
+.navbar {
+  position: fixed;
+  font-style: bold;
+  width: 100%;
+  padding: 10px;
+  z-index: 100;
+}
+
+.nav {
+  padding-left: 60px;
+}
+.navbar-nav>li {
+  padding-left: 20px;
+}
+
+.navbar-default .navbar-brand {
+  color: #3ea7ad;
+  font-weight: bold;
+  font-family: "Garamond", Times, serif;
+  font-style: italic;
+  font-size: 50px;
+}
+
+.navbar-default .navbar-nav>li>a {
+  font-weight: bold;
+  font-family: "Garamond", Times, serif;
+  font-size: 18px;
+}
+
+.text1{
+  font-family: "Pacifico", Times, serif;
+  font-size: 60px;
+}
+
+.text2{
+  font-family: "Dancing Script", Times, serif;
+  font-size: 40px;
+  font-weight: bold;
+}
